@@ -26,6 +26,7 @@
 ## On linux - client-render
 ```sh
  cd client-render
+ ```
 ```sh
  npm install
 ```
