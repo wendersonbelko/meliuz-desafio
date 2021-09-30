@@ -1,7 +1,6 @@
 #ComicVine List
 
 ## Features
-
 - Listar todos personagens
 - Listar Personagens por nome
 - Adicionar personagens aos favoritos
