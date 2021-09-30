@@ -23,7 +23,7 @@
 - Ao se cadastrar e obter o token, faça uma copia do arquivo env e renomeio para .env local: "/server-render"
 - Abra o arquivo e cole sua chave em: REACT_APP_API_KEY=SUA_CHAVE_AQUI
 ```sh
- cd client-side && npm install && npm dev
+ cd client-render && npm install && npm dev
 ```
 ```sh
 cd server-render && npm install && npm dev
