@@ -1,4 +1,4 @@
-#ComicVine List
+# ComicVine List
 
 ## Features
 - Listar todos personagens
@@ -23,7 +23,7 @@
 - Ao se cadastrar e obter o token, faça uma copia do arquivo env e renomeio para .env local: "/server-render"
 - Abra o arquivo e cole sua chave em: REACT_APP_API_KEY=SUA_CHAVE_AQUI
 
-##On linux - client-render
+## On linux - client-render
 ```sh
  cd client-render
 ```sh
@@ -33,7 +33,7 @@
  npm start
 ```
 
-##On linux - server-render
+## On linux - server-render
 ```sh
 cd server-render
 ```
@@ -44,7 +44,7 @@ npm install
 npm dev
 ```
 
-##On windows - client-render
+## On windows - client-render
 ```sh
  cd client-render
 ```
@@ -59,7 +59,7 @@ Entre no arquivo "package.json" e altere o comando "start": "PORT=4000 && react-
  npm start
 ```
 
-##On windows - server-render
+## On windows - server-render
 ```sh
  cd server-render
 ```
